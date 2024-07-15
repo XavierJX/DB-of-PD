@@ -1,2 +1,2 @@
 # DB-of-PD
-Code and data for the paper "New Digital Biomarkers of Parkinson’s Disease with Wearable Multi-sensing Insoles"
+Code and data for the paper "Interpretable Quantification of Parkinson’s Disease with Wearable Multi-sensing Insoles"
